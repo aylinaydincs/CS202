@@ -1,9 +1,4 @@
-#Homework 1
-In homework 1, we are going to design a system to manage supply-chain of customer companies.
-Some classes will already be provided with the desired methods. 
-You need to implement all functionalities listed in Requirements section.
-This may require you to implement methods given in the template code, write new classes, methods and all necessary code.
-The codes will be tested with a private set of tests (different than the ones provided to you).
+Cs202 Spring 2020/21 - Homework-2
 
 Requirements
 ============
@@ -26,18 +21,6 @@ Requirements
  * (Query2) The system shall track the inactive companies (i.e., their name) for a given time period. E.g., the companies which does not have any order between given two dates.
 8. The system shall implement the predetermined REST calls. Please see controller package for further information.
  * ALL REST CALLS MUST BE TRANSACTIONAL. PLEASE MAKE SURE THAT ACID PROPERTIES ARE SATISFIED!
-
-Grading
-=======
-The submitted source codes will be graded with a private set of tests, using your repositories. The grading rules will be published in LMS. 
-
-Submission
-==========
-Please add your ER-diagram, relational model documentation under docs, and submit your project to LMS. Submission deadline will be available on LMS. Late submissions are going to be penalized with 10 points each day.
-
-Scholastic Honesty
-==================
-Students are expected to abide by the rules of scholastic honesty. Any form of scholastic dishonesty is a serious academic violation and will result in a disciplinary action. Violations of scholastic honesty include, but are not limited to cheating, plagiarizing, fabricating information or citations, facilitating acts of dishonesty by others, having unauthorized possession of examinations, submitting work of another person or work previously used without informing the instructor, or tampering with the academic work of other students.
 
 NOTE
 ====
